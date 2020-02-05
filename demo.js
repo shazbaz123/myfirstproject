@@ -1,1 +1,1 @@
-confirm.log("hi");
+confirm.log("hi")
